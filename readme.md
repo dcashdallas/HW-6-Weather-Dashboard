@@ -12,3 +12,4 @@ Weather Dashboard is a application that is used to track the weather in differen
 
 The user enters the city, state or zip code of the city or cities being traveled to, and the application will save the city to the dashboard for future refernce. 
 
+![Weather Dashboard demo gif](https://github.com/dcashdallas/HW-6-Weather-Dashboard/blob/master/weatherdashboard.gif?raw=true)
